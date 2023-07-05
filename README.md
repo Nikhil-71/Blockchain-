@@ -49,7 +49,7 @@ TO INITIATE THE FIRST HYPERLEDGER FABRIC NETWORK, WE WILL UTILIZE THE FABRIC-SAM
 
 sudo apt-get -y install docker-compose
 
-** 2.INSTALL GOLANG-GO**
+ 2.INSTALL GOLANG-GO
 
 sudo apt install golang-go
 
@@ -57,7 +57,7 @@ sudo apt install golang-go
 
 INSTALL JQ
 
-** 4.INSTALL NODE/JAVA**
+ 4.INSTALL NODE/JAVA
 
 sudo apt install npm npm install node
 
