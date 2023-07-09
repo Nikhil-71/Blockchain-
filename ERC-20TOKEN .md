@@ -11,6 +11,9 @@ FIRST WE NEED TO HAVE ANY TYPE OF CRYPTO WALLET SUCH AS METAMASK, COINBASE, ETC.
 
 3.MINE GORELIETH USING THIS LINK (https://goerli-faucet.pk910.de/).
 
+![image](https://github.com/Nikhil-71/Blockchain-/assets/136786579/9684355f-7ac7-4a43-be35-08bb7661440d)
+
+
 4.CLAIM 0.01 GOERLIETH OR MORE. NOW YOUR METAMASK ACCOUNT SHOULD LOOK LIKE THIS :
 
 ![image](https://github.com/Nikhil-71/Blockchain-/assets/136786579/1ed3a7c2-40fe-41ed-ad20-738565287f14)
